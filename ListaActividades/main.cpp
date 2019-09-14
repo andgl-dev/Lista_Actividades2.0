@@ -1,6 +1,6 @@
 #include "lista.h"
 #include "nodocabhora.h"
-int main(int argc, char *argv[])
+int main()
 {
 
     lista *l = new lista();
